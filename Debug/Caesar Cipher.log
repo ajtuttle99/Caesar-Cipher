@@ -1,0 +1,4 @@
+﻿  main.cpp
+Z:\Other\Homework\Third Year College\Second semester\CS2250\Caesar Cipher\main.cpp(34,6): warning C4101:  'shiftValue': unreferenced local variable
+Z:\Other\Homework\Third Year College\Second semester\CS2250\Caesar Cipher\main.cpp(101,20): warning C4018:  '<': signed/unsigned mismatch
+  Caesar Cipher.vcxproj -> Z:\Other\Homework\Third Year College\Second semester\CS2250\Caesar Cipher\Debug\Caesar Cipher.exe
